@@ -1,0 +1,10 @@
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\bin\Debug\ТРПО2.exe.config
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\bin\Debug\ТРПО2.exe
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\bin\Debug\ТРПО2.pdb
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\obj\Debug\ТРПО2.csprojAssemblyReference.cache
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\obj\Debug\ТРПО2.Form1.resources
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\obj\Debug\ТРПО2.Properties.Resources.resources
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\obj\Debug\ТРПО2.csproj.GenerateResource.cache
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\obj\Debug\ТРПО2.csproj.CoreCompileInputs.cache
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\obj\Debug\ТРПО2.exe
+C:\Users\darina\source\repos\ТРПО2\ТРПО2\obj\Debug\ТРПО2.pdb
